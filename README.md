@@ -19,7 +19,7 @@ In order to classify customers, a Random Forest classifier was used. When decidi
 The final confusion matrix showed the that recall on the test set was 70%.
 
 <p align="center">
-<img src="https://github.com/Kyle-f-r/Time-Series-Carbon-Emission-Forecasting/blob/master/images/Model_AIC_table.png?raw=true" width="150" height="140" />
+<img src="https://github.com/Kyle-f-r/Loan-Eligibility-Prediction/blob/master/images/Testset_confusionmatrix.png?raw=true" width="150" height="140" />
 </p>
 <p align="center">
     <em></em>
